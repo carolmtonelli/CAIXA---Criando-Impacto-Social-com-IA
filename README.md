@@ -9,7 +9,6 @@ Esta página tem o objetivo de inspirar e oferecer informações para impulsiona
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa [ChatGPT](https://chatgpt.com/) para roteirização; 
 - IA Generativa [Gamma.app](https://gamma.app/) para fazer a diagramação do e-book.
-- IA Generativa [HeyGen](https://app.heygen.com/) para gerar o video com avatar pré formatado.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para gerar o conteúdo e roteirização dos posts. Para concluir, a montagem final foi feita no Gamma.app, por ser uma ferramenta AI para diagramação de texto.
