@@ -16,7 +16,7 @@ Utilizei o "ChatGPT" para gerar o conteúdo e roteirização dos posts. Para con
 
 ## 🚀 Resultados
 Este é o projeto criado, base para desenvolvimento da página na rede social. 
-- [PROJETO]([https://gamma.(https://gamma.app/docs/CRIANDO-IMPACTO-SOCIAL-COM-IA-DIO-CAIXA-5pdf-3con352nhqlnkh9?mode=doc)
+- [PROJETO](https://criando-impacto-social-c-8hzg8z4.gamma.site/)
 
 ## 👨‍💻 Expert
 
