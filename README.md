@@ -17,3 +17,18 @@ Utilizei o "ChatGPT" para gerar o conteúdo e roteirização dos posts. Para con
 ## 🚀 Resultados
 Este é o projeto criado, base para desenvolvimento da página na rede social. 
 - [PROJETO]([https://gamma.(https://gamma.app/docs/CRIANDO-IMPACTO-SOCIAL-COM-IA-DIO-CAIXA-5pdf-3con352nhqlnkh9?mode=doc)
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/carolmtonelli/prompts-for-podcast-generate-by-ia/blob/main/WhatsApp%20Image%202023-11-13%20at%2020.01.01.jpeg"
+    />
+    <p>&nbsp&nbsp&nbspCarolina Martin Tonelli<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/carolmtonelli">
+        GitHub
